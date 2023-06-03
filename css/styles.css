@@ -1,0 +1,20 @@
+p{font-size: 20px;
+    font-weight: 700;
+    padding-bottom: 12px;
+    line-height: 1;
+    text-align: center;}
+
+    .errorr-state{
+        font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    padding: 10px 12px ;
+    border: 1px solid red;
+    border-radius: 4px;
+
+    width: 100%;
+    color: getColor("input-text-color");
+    background-color:getColor("input-text-color");
+    }
